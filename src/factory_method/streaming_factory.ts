@@ -1,4 +1,4 @@
-/ Definição da interface Media
+// Definição da interface Media
 interface Media {
     play(): void;
     stop(): void;
